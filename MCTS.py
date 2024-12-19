@@ -2,6 +2,7 @@ import logging
 import math
 
 import numpy as np
+from tqdm.auto import tqdm
 
 EPS = 1e-8
 
